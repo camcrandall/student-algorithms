@@ -1,2 +1,2 @@
 # student-algorithms
-Algorithms developed for MECH105
+Numerical Methods Algorithms developed for MECH105
